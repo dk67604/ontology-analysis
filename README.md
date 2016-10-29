@@ -1,2 +1,2 @@
 # ontology-analysis
-Ontology Aliggnment
+Ontology Alignment
